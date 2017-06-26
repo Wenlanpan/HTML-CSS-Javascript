@@ -2,6 +2,7 @@ h1 {
     text-align:center;
     font-family: "Chalkboard SE",serif;
     font-size: 175%;
+    color: chocolate;
 
 }
 body{
@@ -12,12 +13,12 @@ div#centerbody{
 }
 div.column {
     background-color: lightgoldenrodyellow;
-    color: black;
-    border: black 1px solid;
+    color:black;
+    border: darkorange 1px solid;
 }
 
 h2{
-    border: black 1px solid;
+    border: darkgoldenrod 1px solid;
     text-align: center;
     font-family: "Comic Sans MS", serif;
     font-size: 125%;
